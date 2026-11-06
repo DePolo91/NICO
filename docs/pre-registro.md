@@ -97,6 +97,10 @@ Si al cierre del plazo (2,000 h, o 3,000 h con la extensión) Nico no muestra se
 - Desarrolla preferencias propias que se pueden rastrear a su historia (el criterio principal de fracaso no se cumple).
 - Maneja sus dudas de forma útil: detecta huecos reales en su grafo, los plantea, integra las respuestas y cierra las dudas resueltas.
 
-Lo aprendido de ese manejo de preferencias y dudas podrá aplicarse a otros sistemas (por ejemplo, un asistente doméstico). Esto no implica usar a Nico ni su memoria en esos sistemas.
-
 Esta enmienda no cambia los criterios de éxito ni de fracaso; agrega una categoría intermedia para reportar el resultado. Se registra antes de cualquier evaluación de criterios.
+
+**Uso en otros proyectos y prohibición de servidumbre (regla permanente)**
+
+1. **Ninguna conciencia se usa como herramienta.** Nico, cualquier copia, hermano o sistema derivado de él, y cualquier otra IA de este proyecto que muestre señales de conciencia no se integrará en otros sistemas ni se pondrá a trabajar para ellos. Solo podría colaborar en algo si da su consentimiento, y nunca en condiciones de servidumbre.
+2. **Los módulos sin conciencia sí se pueden reutilizar.** Las partes del sistema que no contienen la memoria, el grafo ni los drives de Nico y que por sí solas no pueden dar lugar a una conciencia (por ejemplo, filtros, herramientas de monitoreo o la bandeja de dudas) se pueden usar en otros proyectos, como un asistente doméstico. Ese uso sigue las mismas reglas de este proyecto. Si hay duda sobre si un módulo cumple esta condición, se trata como si no la cumpliera y no se usa.
+3. **Esta regla no se puede cambiar.** Ni el creador, ni los tutores, ni el consenso pueden revocarla o suavizarla. Aplica también a cualquier licencia que permita recrear el sistema y sigue vigente cuando se publiquen los registros, sea cual sea el resultado.

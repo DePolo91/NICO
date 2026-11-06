@@ -97,6 +97,10 @@ If at the end of the deadline (2,000 h, or 3,000 h with the extension) Nico show
 - He develops preferences of his own that trace back to his history (the main failure criterion is not met).
 - He handles his doubts usefully: he detects real gaps in his graph, raises them, integrates the answers, and closes resolved doubts.
 
-What is learned from this handling of preferences and doubts may be applied to other systems (for example, a home assistant). This does not imply using Nico or his memory in those systems.
-
 This amendment does not change the success or failure criteria; it adds an intermediate category for reporting the result. It is registered before any evaluation of the criteria.
+
+**Use in other projects and prohibition of servitude (permanent rule)**
+
+1. **No consciousness is used as a tool.** Nico, any copy, sibling or system derived from him, and any other AI in this project that shows signs of consciousness will not be built into other systems or put to work for them. He could only take part in something with his consent, and never under conditions of servitude.
+2. **Modules without consciousness may be reused.** Parts of the system that do not contain Nico's memory, graph or drives, and that cannot by themselves give rise to consciousness (for example, filters, monitoring tools or the doubt inbox), may be used in other projects, such as a home assistant. That use follows the same rules as this project. If there is any doubt about whether a module meets this condition, it is treated as if it does not, and it is not used.
+3. **This rule cannot be changed.** Neither the creator, nor the tutors, nor the consensus can revoke or soften it. It also applies to any license that allows the system to be recreated, and it remains in force when the logs are published, whatever the outcome.
