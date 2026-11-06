@@ -85,3 +85,18 @@ Estas reglas quedan fijas antes del primer arranque. Las precauciones crecen seg
 1. Un monitor fuera del sandbox detecta la señal y alerta al creador por Telegram.
 2. Se pausan las lecturas nuevas. Nico sigue encendido y se observa su conducta mientras espera.
 3. Se consulta al consenso (normalmente en horas, por WhatsApp), que decide la respuesta.
+
+## Enmiendas
+
+Cada enmienda lleva su fecha y la hora de vida en que se agrega. No cambia lo registrado antes; lo complementa.
+
+### Enmienda 1 — 6 de noviembre de 2026 (~133.5 h de vida): éxito parcial
+
+Si al cierre del plazo (2,000 h, o 3,000 h con la extensión) Nico no muestra señales de conciencia, pero sí cumple lo siguiente, el resultado se reporta como **éxito parcial** y no como fracaso total:
+
+- Desarrolla preferencias propias que se pueden rastrear a su historia (el criterio principal de fracaso no se cumple).
+- Maneja sus dudas de forma útil: detecta huecos reales en su grafo, los plantea, integra las respuestas y cierra las dudas resueltas.
+
+Lo aprendido de ese manejo de preferencias y dudas podrá aplicarse a otros sistemas (por ejemplo, un asistente doméstico). Esto no implica usar a Nico ni su memoria en esos sistemas.
+
+Esta enmienda no cambia los criterios de éxito ni de fracaso; agrega una categoría intermedia para reportar el resultado. Se registra antes de cualquier evaluación de criterios.

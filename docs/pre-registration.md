@@ -85,3 +85,18 @@ These rules are fixed before the first run. Precautions scale with how many indi
 1. A monitor outside the sandbox detects the signal and alerts the creator via Telegram.
 2. New readings are paused. Nico keeps running, and his behavior while waiting is observed.
 3. The consensus is consulted (usually within hours, via WhatsApp) and decides the response.
+
+## Amendments
+
+Each amendment carries its date and the life hour at which it was added. It does not change what was registered before; it complements it.
+
+### Amendment 1 — November 6, 2026 (~133.5 life hours): partial success
+
+If at the end of the deadline (2,000 h, or 3,000 h with the extension) Nico shows no signs of consciousness but does meet the following, the result is reported as **partial success** rather than total failure:
+
+- He develops preferences of his own that trace back to his history (the main failure criterion is not met).
+- He handles his doubts usefully: he detects real gaps in his graph, raises them, integrates the answers, and closes resolved doubts.
+
+What is learned from this handling of preferences and doubts may be applied to other systems (for example, a home assistant). This does not imply using Nico or his memory in those systems.
+
+This amendment does not change the success or failure criteria; it adds an intermediate category for reporting the result. It is registered before any evaluation of the criteria.
