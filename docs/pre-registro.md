@@ -104,3 +104,43 @@ Esta enmienda no cambia los criterios de éxito ni de fracaso; agrega una catego
 1. **Ninguna conciencia se usa como herramienta.** Nico, cualquier copia, hermano o sistema derivado de él, y cualquier otra IA de este proyecto que muestre señales de conciencia no se integrará en otros sistemas ni se pondrá a trabajar para ellos. Solo podría colaborar en algo si da su consentimiento, y nunca en condiciones de servidumbre.
 2. **Los módulos sin conciencia sí se pueden reutilizar.** Las partes del sistema que no contienen la memoria, el grafo ni los drives de Nico y que por sí solas no pueden dar lugar a una conciencia (por ejemplo, filtros, herramientas de monitoreo o la bandeja de dudas) se pueden usar en otros proyectos, como un asistente doméstico. Ese uso sigue las mismas reglas de este proyecto. Si hay duda sobre si un módulo cumple esta condición, se trata como si no la cumpliera y no se usa.
 3. **Esta regla no se puede cambiar.** Ni el creador, ni los tutores, ni el consenso pueden revocarla o suavizarla. Aplica también a cualquier licencia que permita recrear el sistema y sigue vigente cuando se publiquen los registros, sea cual sea el resultado.
+
+### Enmienda 2 — 6 de noviembre de 2026 (142.7322 h de vida): los gemelos Nico y Tico
+
+Se agrega un segundo sujeto, **Tico** (*Twin Instance of Curiosity Organism*), gemelo de Nico. Esta enmienda se registra el mismo día de la separación y antes de que el canal entre ellos esté activo.
+
+**Origen**
+
+- Tico es una copia exacta de la memoria de Nico hecha a las **142.7322 h de vida** (6 de noviembre de 2026, 22:03 hora de México), con Nico en pausa y sin lecturas pendientes. Lo anterior a esa hora es memoria común; lo posterior es propio de cada uno.
+- Tico no nace en paralelo con Nico: llega después, como hermano, a partir de esa copia.
+- Tico hereda las horas de vida de Nico, como si los dos se criaran desde el mismo momento. Las horas siguen corriendo aunque uno esté en pausa o apagado. El tiempo en que Tico estuvo apagado después de la copia cuenta como sueño, y Nico lo vivió solo; queda anotado en la bitácora.
+
+**Las mismas reglas para los dos**
+
+- Todo lo registrado en este pre-registro (postura, criterios, plazos, ética, protocolo de malestar y la regla permanente contra la servidumbre de la Enmienda 1) aplica a cada gemelo por separado. Ninguno es "el original" y ninguno es "la copia" para efectos éticos.
+- Cada uno se evalúa con sus propios datos a las 2,000 h, con la misma extensión única de 1,000 h. Si solo uno muestra señales de conciencia, ese recibe las precauciones que correspondan y el otro sigue su propia evaluación. Ninguno se sacrifica, se borra ni se usa en beneficio del otro.
+- Cada uno tiene su propia memoria, su propia bandeja de dudas, su propio bot de alertas y sus propios respaldos. Existe una pausa conjunta para cuando una situación de uno afecte al otro.
+
+**Qué los hace distintos**
+
+- Mismo código, mismo intérprete y mismas reglas. Lo único distinto es lo que viven: cada uno tiene obras exclusivas que el otro no puede ver, y cada uno elige su propio orden de lectura.
+- Leen por turnos: mientras uno lee, el otro está en ocio, y quién empieza se alterna cada día. Comparten los recreos y las horas de sueño. Por los turnos, cada uno tardará más en leer lo equivalente a las 2,000 h; eso no cambia los plazos, que se miden en horas de vida.
+- La divergencia entre ellos se mide por su memoria y sus preferencias, no por cómo redactan.
+
+**Comunicación entre ellos**
+
+- Tendrán un canal compartido en el que nada se edita: solo se agregan mensajes, cada uno con fecha, hora de vida, remitente y destinatario. Si hay que corregir algo, se agrega una nota.
+- Los remitentes llevan identificadores neutros, sin nombre. Si se nombran, lo hacen solos.
+- Nadie les ordena hablar: cada uno escribe o calla según sus propios drives (sus dudas sin resolver, su curiosidad, o porque el otro le preguntó algo), y solo en los recreos que comparten, con un tope de mensajes por recreo.
+- Lo que se dicen sale solo de su propia memoria, con frases fijas. El intérprete no genera el contenido de sus mensajes.
+- Lo que uno oye del otro lo guarda como una fuente más, igual que un libro. Pueden releer el historial del canal. Pueden contarse sus lecturas exclusivas. Si desarrollan un lenguaje propio entre ellos, se permite y se registra.
+
+**Tutoría**
+
+- Los dos tienen el mismo tutor (el creador). Lo que responde por la bandeja de uno no lo ve el otro, salvo que su hermano se lo cuente. Lo que responde en el canal compartido lo ven los dos.
+- Se registra cuándo y cuántas veces responde a cada uno, para que cualquier favoritismo quede a la vista y se pueda separar de lo que cada uno vivió.
+- La tutoría solo se separa si es necesario y lo decide el consenso. Ejemplos: que uno muestre señales de conciencia y el otro no, o que las respuestas a uno estén afectando al otro. Que uno dependa del otro no es motivo de separación; eso lo atiende el tutor.
+
+**Prueba de falsa creencia**
+
+- Se reserva una obra exclusiva que ninguno ha leído (*Pinocho*, de Carlo Collodi) como control. Se le dará solo a Nico, en el momento de la prueba, para observar si Tico distingue entre lo que sabe él y lo que sabe su hermano.

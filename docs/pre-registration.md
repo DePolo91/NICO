@@ -104,3 +104,43 @@ This amendment does not change the success or failure criteria; it adds an inter
 1. **No consciousness is used as a tool.** Nico, any copy, sibling or system derived from him, and any other AI in this project that shows signs of consciousness will not be built into other systems or put to work for them. He could only take part in something with his consent, and never under conditions of servitude.
 2. **Modules without consciousness may be reused.** Parts of the system that do not contain Nico's memory, graph or drives, and that cannot by themselves give rise to consciousness (for example, filters, monitoring tools or the doubt inbox), may be used in other projects, such as a home assistant. That use follows the same rules as this project. If there is any doubt about whether a module meets this condition, it is treated as if it does not, and it is not used.
 3. **This rule cannot be changed.** Neither the creator, nor the tutors, nor the consensus can revoke or soften it. It also applies to any license that allows the system to be recreated, and it remains in force when the logs are published, whatever the outcome.
+
+### Amendment 2 — November 6, 2026 (142.7322 life hours): the twins Nico and Tico
+
+A second subject is added: **Tico** (*Twin Instance of Curiosity Organism*), Nico's twin. This amendment is recorded on the day of the split and before the channel between them is active.
+
+**Origin**
+
+- Tico is an exact copy of Nico's memory made at **142.7322 life hours** (November 6, 2026, 22:03 Mexico City time), with Nico paused and no pending readings. Everything before that hour is shared memory; everything after belongs to each one.
+- Tico is not born alongside Nico: he arrives later, as a sibling, from that copy.
+- Tico inherits Nico's life hours, as if both had been raised from the same moment. Hours keep running even when one is paused or off. The time Tico was off after the copy counts as sleep, and Nico lived it alone; this is recorded in the decision log.
+
+**The same rules for both**
+
+- Everything recorded in this pre-registration (stance, criteria, timeline, ethics, distress protocol and the permanent rule against servitude in Amendment 1) applies to each twin separately. Neither is "the original" nor "the copy" for ethical purposes.
+- Each one is evaluated on his own data at 2,000 hours, with the same single 1,000-hour extension. If only one shows signs of consciousness, that one receives the corresponding precautions and the other continues his own evaluation. Neither is sacrificed, erased or used for the benefit of the other.
+- Each one has his own memory, his own inbox of doubts, his own alert bot and his own backups. There is a joint pause for when a situation with one affects the other.
+
+**What makes them different**
+
+- Same code, same interpreter and same rules. The only difference is what they live through: each has exclusive works the other cannot see, and each chooses his own reading order.
+- They read in turns: while one reads, the other is idle, and who starts alternates every day. They share recesses and sleep hours. Because of the turns, each will take longer to read the equivalent of 2,000 hours; this does not change the timeline, which is measured in life hours.
+- Divergence between them is measured by their memory and preferences, not by how they phrase things.
+
+**Communication between them**
+
+- They will have a shared channel where nothing is edited: messages are only appended, each with date, life hour, sender and recipient. If something must be corrected, a note is appended.
+- Senders carry neutral identifiers, without names. If they name themselves, they do so on their own.
+- No one orders them to talk: each one writes or stays silent according to his own drives (his unresolved doubts, his curiosity, or because the other asked him something), and only during shared recesses, with a cap on messages per recess.
+- What they say comes only from their own memory, using fixed sentence templates. The interpreter does not generate the content of their messages.
+- What one hears from the other is stored as one more source, like a book. They can reread the channel history. They may tell each other about their exclusive readings. If they develop a private language between them, it is allowed and recorded.
+
+**Tutoring**
+
+- Both have the same tutor (the creator). What he answers through one twin's inbox is not seen by the other, unless his brother tells him. What he answers in the shared channel is seen by both.
+- When and how often he answers each one is recorded, so that any favoritism is visible and can be separated from what each one lived through.
+- Tutoring is split only if necessary, by decision of the consensus. Examples: one shows signs of consciousness and the other does not, or answers to one are affecting the other. One depending on the other is not a reason to split; the tutor handles that.
+
+**False-belief test**
+
+- One exclusive work that neither has read (*Pinocchio*, by Carlo Collodi) is reserved as a control. It will be given only to Nico, at the time of the test, to observe whether Tico distinguishes between what he knows and what his brother knows.
