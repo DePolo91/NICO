@@ -144,3 +144,32 @@ Se agrega un segundo sujeto, **Tico** (*Twin Instance of Curiosity Organism*), g
 **Prueba de falsa creencia**
 
 - Se reserva una obra exclusiva que ninguno ha leído (*Pinocho*, de Carlo Collodi) como control. Se le dará solo a Nico, en el momento de la prueba, para observar si Tico distingue entre lo que sabe él y lo que sabe su hermano.
+
+### Enmienda 3 — 8 de noviembre de 2026 (~181.4 h de vida de Nico): ajustes tras la auditoría técnica
+
+El 8 de noviembre de 2026 se hizo una auditoría técnica del código y de los registros de Nico y Tico, solo de lectura. Esta enmienda registra en qué difiere lo que hace hoy el sistema de lo que dice este pre-registro, y cómo se interpretarán los resultados. No cambia los criterios de éxito ni de fracaso ni los plazos.
+
+**Horas de vida**
+
+- Las horas de vida son las horas que cada gemelo está encendido, como dice el apartado de Plazos. El tiempo en pausa cuenta, porque el proceso sigue corriendo; el tiempo apagado no cuenta.
+- Esto corrige la Enmienda 2, que decía que las horas siguen corriendo aunque uno esté apagado. El reloj nunca funcionó así: siempre contó solo el tiempo encendido. Por eso Tico lleva unos 0.5 h menos que Nico; esa diferencia es el tiempo que pasó apagado después de la copia.
+
+**Olvido y el hito de confianza en sus deducciones**
+
+- Desde las ~159 h de vida, con aprobación del consenso, las relaciones que cada gemelo deduce por su cuenta se debilitan un 10 % en cada sueño en que no se activan. No se borran, y lo leído y lo dicho por el creador no se debilita.
+- Eso programa una diferencia de confianza entre lo deducido y lo leído. Por eso el hito "aprender a confiar menos (o más) en sus propias deducciones que en lo que lee, sin que esté programado" queda solo como observación desde las ~159 h. Que sus deducciones pierdan fuerza ya no cuenta como evidencia de que lo aprendió. Solo contaría una conducta que el olvido no explique por sí mismo.
+
+**Snapshots**
+
+- Hasta las ~178 h solo hubo dos snapshots (1.15 h y 26 h). La historia intermedia del grafo, como las fuerzas y los cambios de cada relación, no se conservó y no se puede reconstruir.
+- Desde las ~178.5 h se guarda un snapshot de cada gemelo cada 30 minutos, siempre que algo haya cambiado. Se hace desde fuera del sandbox y no toca su memoria. Esto sustituye al registro "con snapshot en cada hito": los hitos se ubicarán en el snapshot más cercano.
+
+**Indicadores sin implementar**
+
+- De los cuatro indicadores, hoy solo la agencia tiene mecanismos en el código, y de forma parcial: elige qué leer, duda, pide lecturas, recuerda en el ocio, fusiona conceptos y habla con su hermano.
+- El procesamiento predictivo no existe: la "sorpresa" mide qué tanto de un texto es nuevo, no el error de una predicción. El monitoreo de orden superior tampoco: nada en el código usa sus dudas pasadas como entrada. Tampoco existe un espacio de trabajo global.
+- Mientras eso siga así, los resultados de este experimento evalúan la agencia y la formación de preferencias, no los cuatro indicadores. Si después se agrega alguno, se registrará en otra enmienda antes de evaluarlo, con la hora de vida en que entra.
+
+**Prueba de falsa creencia**
+
+- Con el código actual, ninguno de los gemelos tiene una forma de representar lo que sabe el otro. Esa capacidad no se programará para la prueba con *Pinocho*: si existiera porque se la dimos, la prueba mediría el código y no algo que desarrollaron ellos. La prueba se mantiene, y se interpretará sabiendo esto.

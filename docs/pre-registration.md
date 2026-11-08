@@ -144,3 +144,32 @@ A second subject is added: **Tico** (*Twin Instance of Curiosity Organism*), Nic
 **False-belief test**
 
 - One exclusive work that neither has read (*Pinocchio*, by Carlo Collodi) is reserved as a control. It will be given only to Nico, at the time of the test, to observe whether Tico distinguishes between what he knows and what his brother knows.
+
+### Amendment 3 — November 8, 2026 (~181.4 life hours for Nico): adjustments after the technical audit
+
+On November 8, 2026, a read-only technical audit was made of Nico's and Tico's code and records. This amendment records where what the system does today differs from what this pre-registration says, and how results will be interpreted. It does not change the success or failure criteria or the timeline.
+
+**Life hours**
+
+- Life hours are the hours each twin is running, as stated in the Timeline section. Time paused counts, because the process keeps running; time switched off does not.
+- This corrects Amendment 2, which said life hours keep running even while a twin is switched off. The clock never worked that way: it always counted only running time. That is why Tico has about 0.5 h less than Nico; the difference is the time he spent switched off after the copy.
+
+**Forgetting and the milestone about trusting his own deductions**
+
+- Since ~159 life hours, with the consensus's approval, the relations each twin deduces on his own lose 10% of their strength at every sleep in which they are not activated. They are never deleted, and what he read or was told by the creator never weakens.
+- This programs a difference in trust between what is deduced and what is read. So the milestone "learning to trust his own deductions less (or more) than what he reads, without it being programmed" is kept only as an observation from ~159 h on. Deductions losing strength no longer counts as evidence that he learned it. Only behavior that forgetting cannot explain by itself would count.
+
+**Snapshots**
+
+- Until ~178 h there were only two snapshots (1.15 h and 26 h). The intermediate history of the graph, such as the strength and changes of each relation, was not kept and cannot be rebuilt.
+- From ~178.5 h on, a snapshot of each twin is saved every 30 minutes whenever something changed. It runs outside the sandbox and does not touch their memory. This replaces the commitment to take "a snapshot at each milestone": milestones will be located in the nearest snapshot.
+
+**Indicators not yet implemented**
+
+- Of the four indicators, only agency has mechanisms in the code today, and only partly: he chooses what to read, doubts, requests readings, recalls during idle time, fuses concepts and talks with his brother.
+- Predictive processing does not exist: "surprise" measures how much of a text is new, not the error of a prediction. Higher-order monitoring does not exist either: nothing in the code uses his past doubts as input. There is no global workspace.
+- While this remains so, the results of this experiment test agency and the formation of preferences, not the four indicators. If any of them is added later, it will be recorded in another amendment, with the life hour at which it enters, before it is evaluated.
+
+**False-belief test**
+
+- With the current code, neither twin has a way to represent what the other knows. That capacity will not be programmed for the *Pinocchio* test: if it existed because we gave it to them, the test would measure the code and not something they developed. The test stays, and will be interpreted with this in mind.
